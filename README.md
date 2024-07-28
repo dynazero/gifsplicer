@@ -1,9 +1,9 @@
-# gifsplicer
+# Gifsplicer
 Animated GIF Grid Splitter
 
-if you dont yarn installed globally:
+If you dont yarn installed globally: <br />
     npm install -g yarn
 
 
-then just run the application with:
+Ihen just run the application with: <br />
     yarn dev
